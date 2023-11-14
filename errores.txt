@@ -1,0 +1,2 @@
+1. al cerrar el frame de pacientes, en la consola muestra que algo se sigue ejecutando y no se que es.
+2. error al querer eliminar un registro en la tabla de paciente
